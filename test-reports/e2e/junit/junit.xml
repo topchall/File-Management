@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="39.832">
+  <testsuite name="API" errors="0" failures="0" skipped="0" timestamp="2023-03-02T23:50:54" time="35.302" tests="1">
+    <testcase classname="API Filesystem Storage Upload/Download files should accept a binary file upload" name="API Filesystem Storage Upload/Download files should accept a binary file upload" time="0.05">
+    </testcase>
+  </testsuite>
+</testsuites>
